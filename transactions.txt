@@ -1,6 +1,0 @@
-Transaction ID : 1 
-Name : fgd
-Number of child Tickets: 5 
-Number of Adult tickets : 0 
-Number of Senior Citizen tickets: 0 
-Total Cost = 50 dollars
